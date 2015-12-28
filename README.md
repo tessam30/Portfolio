@@ -1,7 +1,7 @@
 # Portfolio
 Accomplishments or projects worked on at USAID.
 
-1) Organized database and created maps for [Acting on the Call 2015] [1]
+1) Organized database and created maps for [Acting on the Call 2015] [1]  
 2) Livelihood Analyses for Niger, Ethiopia, Uganda, Bangladesh  
 3) Fundamentals of Data Analysis & Visualization Training  
 
