@@ -7,7 +7,8 @@ Accomplishments or projects worked on at USAID.
 4) Ad hoc request: 
 - Food for Peace 60th Anniversary Time-enable maps & database   
 - Looping over DHS datasets to run regressions     
-- Looping over DHS indicators datasets to merge files into a single database   
+- Looping over DHS indicators datasets to merge files into a single database    
+
 5) Installation of Software in knowledge center   
 6) TDYs: West Virginia (Morgantown), Florida (Tampa), Malawi (GIS Training & Capacity Building), Uganda (Needs Assessment), Rwanda (Needs Assessment)     
 7) Joint Sahel Development Game: DoD & USAID Civ/Mil Collaboration     
